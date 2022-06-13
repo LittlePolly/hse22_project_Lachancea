@@ -23,3 +23,13 @@ Gene - Lachancea
 | Lachancea lanzarotensis           | 11092131 | 5319            | 0.6835073440802313 | 0.6786118014653811 |
 | Lachancea mirantina               | 10117267 | 5406            | 0.746538071991181  | 0.7399981635356663 |
 | Lachancea quebecensis             | 10229370 | 5445            | 0.7422023057138416 | 0.7374532351454683 |
+
+
+
+|              Species              | Amount | Overal length | Mean length | Mean ZH-Score |
+|:---------------------------------:|:------:|:-------------:|:-----------:|:-------------:|
+| Lachancea_thermotolerans_CBS_6340 | 42003  | 419514        | 9.99        | 4525.53       |
+| Lachancea_fermentati              | 22475  | 226150        | 10.06       | 5089.42       |
+| Lachancea_lanzarotensis           | 13887  | 141102        | 10.16       | 1700.55       |
+| Lachancea_mirantina               | 22109  | 218960        | 9.90        | 2840.17       |
+| Lachancea_quebecensis             | 36547  | 365936        | 10.01       | 6276.23       |
