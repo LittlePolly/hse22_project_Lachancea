@@ -1,10 +1,16 @@
 # hse22_project
 
 
+colab 1 - https://colab.research.google.com/drive/1Xb1n7KBZFYo-dgmPt7HyRKpR6dk0Dsj9?usp=sharing
+
+colab 2 - https://colab.research.google.com/drive/1dIuZOtn6n4Vrupfn5AwtcT0lc0l_5sp7?usp=sharing (выполнен с чужого ноутбука, потому что мой выдавал ошибку)
+
+
 Taxon -	Ascomycetes
 
 Gene - Lachancea
 
+Выбранные геномы:
 
 | Species                           | Level       | Size(Mb) | GC%     | Scaffolds | Assembly        |
 |-----------------------------------|-------------|----------|---------|-----------|-----------------|
@@ -15,6 +21,7 @@ Gene - Lachancea
 | Lachancea quebecensis             | Scaffold    |  10,2294 |    46,7 | 51        | GCA_002900925.1 |
 
 
+Аннотированные:
 
 |              Species              |  Length  | Annotated genes |  Annotated genes % |       Exons %      |
 |:---------------------------------:|:--------:|:---------------:|:------------------:|:------------------:|
@@ -25,6 +32,7 @@ Gene - Lachancea
 | Lachancea quebecensis             | 10229370 | 5445            | 0.7422023057138416 | 0.7374532351454683 |
 
 
+Предсказание участков Z-DNA:
 
 |              Species              | Amount | Overal length | Mean length | Mean ZH-Score |
 |:---------------------------------:|:------:|:-------------:|:-----------:|:-------------:|
