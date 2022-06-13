@@ -43,6 +43,9 @@ Gene - Lachancea
 | Lachancea_quebecensis             | 36547  | 365936        | 10.01       | 6276.23       |
 
 
+Файл clusters в папке data
+
+
 Визуализация:
 
 ![image](https://user-images.githubusercontent.com/93220053/173428631-632c21f8-a696-4e1e-95a4-80c827833f3c.png)
