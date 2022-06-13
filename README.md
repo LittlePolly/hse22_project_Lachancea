@@ -41,3 +41,21 @@ Gene - Lachancea
 | Lachancea_lanzarotensis           | 13887  | 141102        | 10.16       | 1700.55       |
 | Lachancea_mirantina               | 22109  | 218960        | 9.90        | 2840.17       |
 | Lachancea_quebecensis             | 36547  | 365936        | 10.01       | 6276.23       |
+
+
+Визуализация:
+
+![image](https://user-images.githubusercontent.com/93220053/173428631-632c21f8-a696-4e1e-95a4-80c827833f3c.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428750-46f69a44-c937-444a-864a-5f5c8640497b.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428791-7e5b8e90-adcb-483b-bd7f-5d340ac93da0.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428826-4879b539-7ab7-4c98-8c83-a0ea7d86d9d2.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428864-a9c5bea6-b26a-4208-8f39-60c25ad914c1.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428900-f1fa411c-0543-4d3b-8de5-caf21fec5bbe.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173428935-7b83e5a7-aa5e-4e85-8f1a-4df45e03b513.png)
+
