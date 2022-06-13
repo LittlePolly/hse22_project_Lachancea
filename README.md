@@ -1,10 +1,18 @@
 # hse22_project
 
 
+Taxon -	Ascomycetes
+
+Gene - Lachancea
 
 
-
-
+| Species                           | Level       | Size(Mb) | GC%     | Scaffolds | Assembly        |
+|-----------------------------------|-------------|----------|---------|-----------|-----------------|
+| Lachancea thermotolerans CBS 6340 |  Chromosome |  10,3929 | 47,2838 | 8         | GCA_000142805.1 |
+| Lachancea fermentati              |  Chromosome |  10,2645 |  42,582 | 8         | GCA_900074765.1 |
+| Lachancea lanzarotensis           | Scaffold    |  11,0921 |    44,3 | 24        | GCA_000938715.1 |
+| Lachancea mirantina               |  Chromosome |  10,1173 | 45,1112 | 8         | GCA_900074745.1 |
+| Lachancea quebecensis             | Scaffold    |  10,2294 |    46,7 | 51        | GCA_002900925.1 |
 
 
 
