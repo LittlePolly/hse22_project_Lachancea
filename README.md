@@ -62,3 +62,22 @@ Gene - Lachancea
 
 ![image](https://user-images.githubusercontent.com/93220053/173428935-7b83e5a7-aa5e-4e85-8f1a-4df45e03b513.png)
 
+
+fasta файлы и файлы выравниваний в папке data
+
+
+Выравнивания MegaX
+
+![image](https://user-images.githubusercontent.com/93220053/173431178-c78f26f9-64c0-4087-82fc-e56cc3e95997.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431253-b6659344-b060-4f03-8165-a3a6d12f08b3.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431364-6b3ffb55-bbe2-4207-8f2b-0fdf7378b6bc.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431412-0ede2a09-48e0-4ec6-8011-f69e8f9ee652.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431445-0a4a9ec7-559a-4bc8-b6ef-6be23510652d.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431479-4f5be989-a5a8-42f7-a8b2-f5f296b7a906.png)
+
+![image](https://user-images.githubusercontent.com/93220053/173431512-4169333f-8d43-4dd3-8bcc-30f5d14e6142.png)
