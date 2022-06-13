@@ -66,7 +66,7 @@ Gene - Lachancea
 fasta файлы и файлы выравниваний в папке data
 
 
-Выравнивания MegaX
+Выравнивания:
 
 ![image](https://user-images.githubusercontent.com/93220053/173431178-c78f26f9-64c0-4087-82fc-e56cc3e95997.png)
 
